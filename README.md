@@ -14,11 +14,11 @@ To run the data cleaning file, you must run through `DataCleaning.ipynb` in Goog
 
 ## Regression
 
-To run `LinearRegression.ipynb`, open the file in Virtual Studio Code and ensure all 8 data files are located in the same folder. Run all to run full analysis. Note that running took approximately ??? minutes on my device
+To run `LinearRegression.ipynb`, open the file in Virtual Studio Code and ensure all 8 data files are located in the same folder. Run all to run full analysis. Note that running took approximately 25 minutes on my device
 
 ## Classification
 
-To run `LogisticRegression.ipynb`, open the file in Virtual Studio Code and ensure all 8 data files are located in the same folder. Run all to run full analysis. Note that running took approximately ??? minutes on my device
+To run `LogisticRegression.ipynb`, open the file in Virtual Studio Code and ensure all 8 data files are located in the same folder. Run all to run full analysis. Note that running took approximately 50 minutes on my device
 
 ## Report
 
