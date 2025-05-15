@@ -22,5 +22,5 @@ To run `LogisticRegression.ipynb`, open the file in Virtual Studio Code and ensu
 
 ## Report
 
-My compiled report can be found in the file ??????????. All of the plots used in the report can be found in the folder "Plots" folder.
+My compiled report can be found in the file `DivvyReport.pdf`. All of the plots used in the report can be found in the folder "Plots" folder.
 
